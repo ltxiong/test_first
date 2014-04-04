@@ -7,6 +7,11 @@ def show_time():
     print '---t----',t, '---int_t---',int_t
     return True
 
+def print_f():
+    print '1'
+    
+
 # show result
 show_time()
 
+print_f()
