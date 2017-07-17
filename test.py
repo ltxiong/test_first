@@ -11,7 +11,7 @@ def print_f():
     print '1'
     
 
-# show result     20170717
+# show result     201707171544
 show_time()
 
 print_f()
